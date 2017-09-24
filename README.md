@@ -1,6 +1,9 @@
 # SpringMVC
 This repo contains spring mvc demo project.
 
+![Image of Spring]
+(https://cldup.com/-ubOGWD1cQ.png)
+
 It can help you get started with Spring concepts.
 I have created a web page which contains 3 different forms 
   - Hello World
