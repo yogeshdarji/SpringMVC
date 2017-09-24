@@ -8,3 +8,5 @@ I have created a web page which contains 3 different forms
   - Hello World
   - Student Form
   - Customer Form 
+
+In Hello World form you pass a name from one page to another through HTTP Servlet request. 
