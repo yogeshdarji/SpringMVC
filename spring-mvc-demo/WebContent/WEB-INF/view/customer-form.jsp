@@ -46,6 +46,12 @@
 	
 		<br>
 		<br>
+		
+		
+	Extras : <form:input path="extras" />
+	
+		<br>
+		<br>
 	
 	<input type="submit" value="Submit" />
 	
